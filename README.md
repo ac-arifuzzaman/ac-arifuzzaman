@@ -9,3 +9,6 @@ Thanks
 ac-arifuzzaman/ac-arifuzzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Basic HTML & CSS & ANIMATION effect and made this simple landing pages.
+
+>>> https://ac-arifuzzaman.github.io/tajmahal/
